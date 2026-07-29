@@ -1,3 +1,8 @@
+# Prompt
+Now, I have uploaded the resale certificate PDFs (from "0. TABLE OF CONTENTS.pdf", "01. Resale Certificate and Addenda.pdf", all the way to "10.A 12 Month Meeting Minutes.pdf") that seller has provided for this condo. Can you take a look and summarize important points for me, and anything concerning. I'm first time home buyer and new to this process. As I understand, the "resale certificate" contains the HOA healthiness, what HOA includes and other stuff.
+
+# Claude answer
+
 I've now gone through the resale certificate, financials, reserve study, insurance summary, rules, and meeting minutes. Here's the honest picture — this one has more to think about than the inspection report did.
 
 ## Financial Snapshot
